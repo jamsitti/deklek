@@ -1,0 +1,11 @@
+Challenge #2: Invent a Unicorn
+---------------------------------
+1. 'dek lek' - created to build a network of small-asian-business owners specializing in traditional chinese medicines and herbs, targeting the ease of receiving health and wellness to folks of all walks of life  
+2. tech stack:
+>application and data (python, react, NGINX, mySQL, redis, ruby, react native,
+graphQL, rails, kafka, go, memcached, openresty, apache spark, hadoop, lua,
+unicorn, dbt, apache beam)
+>utilities (elasticsearch, bootsnap)
+>devOps (github, git, docker, kubernetes, new relic, vagrant, datadog, pingdom, 
+chef, google kubernetes engine, zookeeper, statuspage.io, statsD, buildkite)
+>business tools (slack, zendesk)
